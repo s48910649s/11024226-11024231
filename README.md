@@ -31,3 +31,29 @@
 ### 2. 类的关系 
 
 #### 2.1关联关系： ![Image text](image/image6-1.png)
+描述了类的结构之间的关系，具有方向、名字、角色和多重性等信息。                          
+![Image text](image/image6-2.png)
+一般的关联关系语义较弱，也有两种语义较强，分别是聚合和组合                  
+
+#### 聚合关系：![Image text](image/image7-1.png)
+特殊关联关系，指明一个聚合（整体）和组成部分之间的关系                       
+![Image text](image/image7-2.png)
+
+#### 组合关系：![Image text](image/image8-1.png)
+语义更强的聚合，部分和整体具有相同的生命周期                              
+![Image text](image/image8-2.png)
+
+#### 2.2、泛化关系：![Image text](image/image9-1.png)
+在面向对象中一般称为继承关系，存在于父类与子类、父接口与子接口                   
+![Image text](image/image9-2.png)
+![Image text](image/image9-3.png)
+
+#### 2.3、实现关系：![Image text](image/image10-1.png)
+ 对应于类和接口之间的关系    
+ ![Image text](image/image10-2.png)
+
+#### 2.4、依赖关系：![Image text](image/image11.png)
+UML类图依赖关系是一种使用关系，特定事物的改变有可能会影响到使用该事物的事物，反之不成立。在你想显示一个事物使用另一个事物时使用，两个元素之间的一种关系，其中一个元素（服务者）的变化将影响另一个元素（客户），或向它（客户）提供所需信息。
+
+## 类图思维导图
+![Image text](image/image12.png)

@@ -50,6 +50,7 @@
 #### 4.2.2、泛化关系：![Image text](image/image9-1.png)
 在面向对象中一般称为继承关系，存在于父类与子类、父接口与子接口                   
 ![Image text](image/image9-2.png)
+
 ![Image text](image/image9-3.png)
 
 #### 4.2.3、实现关系：![Image text](image/image10-1.png)
